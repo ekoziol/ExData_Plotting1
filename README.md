@@ -35,7 +35,7 @@ web site</a>:
 
 ## Loading the data
 
-
+### Note that in order for the scripts to work must unzip the data from the data folder into the main directory.
 
 
 
